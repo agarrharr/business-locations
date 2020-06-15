@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/adam/Development/github/agarrharr/business-locations/WebApplication/WebApplication/WebApplication.csproj": {}
+  },
+  "projects": {
+    "/Users/adam/Development/github/agarrharr/business-locations/WebApplication/WebApplication/WebApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adam/Development/github/agarrharr/business-locations/WebApplication/WebApplication/WebApplication.csproj",
+        "projectName": "WebApplication",
+        "projectPath": "/Users/adam/Development/github/agarrharr/business-locations/WebApplication/WebApplication/WebApplication.csproj",
+        "packagesPath": "/Users/adam/.nuget/packages/",
+        "outputPath": "/Users/adam/Development/github/agarrharr/business-locations/WebApplication/WebApplication/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/adam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://repository.vnerd.com/artifactory/api/nuget/nuget-pluralsight": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
